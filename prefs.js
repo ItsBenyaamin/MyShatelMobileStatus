@@ -51,7 +51,7 @@ import {ExtensionPreferences, gettext as _} from 'resource:///org/gnome/Shell/Ex
 
         const intervalDuration = new Gtk.SpinButton();
         let intervalDurationAdjustment = new Gtk.Adjustment();
-        intervalDurationAdjustment.set_lower(1);
+        intervalDurationAdjustment.set_lower(10);
         intervalDurationAdjustment.set_upper(500);
         intervalDurationAdjustment.set_step_increment(1);
         intervalDuration.set_adjustment(intervalDurationAdjustment);

@@ -1,7 +1,7 @@
 {
   "name": "My ShatelMobile Status",
   "description": "Shows remained traffic and expire date from MyShatelMobile",
-  "uuid": "my-shatemobile-status@benyaamin.com",
+  "uuid": "my-shatelmobile-status@benyaamin.com",
   "shell-version": [
     "48"
   ],

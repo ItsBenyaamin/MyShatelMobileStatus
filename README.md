@@ -8,7 +8,21 @@ This gnome extension shows your remained internet traffic and expire date of Sha
 
 # How to use
 
-First, open [ShatelMobile](https://my.shatelmobile.ir/) website, Login.
+Clone the repository(copy the exact command):
+
+```bash
+git clone https://github.com/ItsBenyaamin/MyShatelMobileStatus.git ~/.local/share/gnome-shell/extensions/my-shatelmobile-status@benyaamin.com/
+
+```
+
+Enable the extension:
+
+```bash
+gnome-extensions enable my-shatelmobile-status@benyaamin.com
+
+```
+
+Open [ShatelMobile](https://my.shatelmobile.ir/) website, Login.
 
 Then, You need to open a brower tab and press `F12` to open `Inspect`. Click on the `Network` tab and reload the website.
 

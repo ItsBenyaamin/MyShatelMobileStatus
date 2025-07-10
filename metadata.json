@@ -1,7 +1,10 @@
 {
   "name": "My ShatelMobile Status",
   "description": "Shows remained traffic and expire date from MyShatelMobile",
-  "uuid": "my-shatemobile-status",
-  "shell-version": ["48"],
+  "uuid": "my-shatemobile-status@benyaamin.com",
+  "shell-version": [
+    "48"
+  ],
+  "url": "https://github.com/ItsBenyaamin/MyShatelMobileStatus",
   "settings-schema": "org.gnome.shell.extensions.MyShatelMobileStatus"
 }
